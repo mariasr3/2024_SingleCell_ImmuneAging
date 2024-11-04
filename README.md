@@ -2,7 +2,7 @@
 
 Github Repo for the paper "Single-cell atlas of the human immune system reveals sex-specific dynamics of immunosenescence"
 
-Main developers: @mariasr3 and 
+Main developers: @aidarripoll and @mariasr3
 
 This repository contains all of the analysis performed in this paper, the figures and supplementary data. The code is mostly in R. 
 
