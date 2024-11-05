@@ -4,12 +4,9 @@ Github Repo for the paper "Single-cell atlas of the human immune system reveals 
 
 Main developers: @aidarripoll and @mariasr3
 
-This repository contains all of the analysis performed in this paper, the figures and supplementary data. The code is mostly in R. 
+This repository contains the scripts used throghout the manuscript. The code is mostly in R. 
 
-- **Code**: All the code to re-run the analysis of the manuscript and to create the figures 
+- **Analysis**: Code to re-run the analysis 
 
-- **Figures**: Figures in pdf format 
-
-- **Data**: Supplementary tables 
-
+- **Figures**: Code to create the figures 
 
